@@ -26,9 +26,6 @@
   <a href="https://www.linkedin.com/in/yunusguldas" target="_blank">
     <img style="width:50px;height:50px" src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://medium.com/@yns.guldas44" target="_blank">
-    <img style="width:50px;height:50px" src="https://images.icon-icons.com/3041/PNG/512/medium_logo_icon_189223.png" />
-  </a>
   <a href="mailto:yns.guldas44@gmail.com">
     <img style="width:50px;height:50px" src="https://skillicons.dev/icons?i=gmail" />
   </a>
