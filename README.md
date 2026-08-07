@@ -3,7 +3,6 @@
 
 ---
 
-- 🔭 I’m currently working at **Synergy Maze AI**  
 - 🎓 I'm student at **Biruni University - Software Engineering**  
 - 🎓 I'm student at **İstanbul University - Managing Information System**  
 - 📝 I regularly write articles on [Medium](https://medium.com/@yns.guldas44)  
