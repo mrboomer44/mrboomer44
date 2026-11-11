@@ -5,7 +5,6 @@
 
 - 🎓 I'm student at **Biruni University - Software Engineering**  
 - 🎓 I'm student at **İstanbul University - Managing Information System**  
-- 📝 I regularly write articles on [Medium](https://medium.com/@yns.guldas44)  
 - 💬 Ask me about **.Net**  
 - 📫 How to reach me: **yns.guldas44@gmail.com**  
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/yunusguldas)  
